@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs%2F54b6c068097599.5b50bca476b9b.gif&f=1&nofb=1&ipt=36219b051881de5e0b7f4a8b4b9f1da982edfdf36a18dc4c1dbb46efe58c5741&ipo=images))](https://rishavchanda.io)
 
 <h1 align="center">Hello 🌏, I'm Sayan Biswas</h1>
 <h3 align="center">An undergrad developer from India</h3>

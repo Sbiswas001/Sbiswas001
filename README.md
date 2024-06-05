@@ -6,23 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbiswas001&label=Profile%20views&color=0e75b6&style=flat" alt="sbiswas001" /> </p>
 
-- 🔭 I’m currently working on [Step Tracker](https://github.com/Sbiswas001/StepTracker)
+- 🔭 I’m currently working on [Student-Portfolio](https://github.com/Sbiswas001/Student-Portfolio)
 
-- 🌱 I’m currently learning **Android App Dev**
+- 🌱 I’m currently learning **Android App Development**
 
-- 👯 I’m looking to collaborate on [Numplex](https://github.com/Sbiswas001/Numplex495)
-
-- 🤝 I’m looking for help with [Numplex App](https://github.com/Sbiswas001/NumplexApp)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sbiswas001](https://github.com/Sbiswas001)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sbiswas001](https://www.linkedin.com/in/sbiswas001)
-
-- 💬 Ask me about **java, kotlin, DSA**
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Sbiswas001?tab=repositories)
 
 - 📫 How to reach me **sbiswas001.tech@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/sbiswas001](https://www.linkedin.com/in/sbiswas001)
 
 - ⚡ Fun fact **I like documented code**
 

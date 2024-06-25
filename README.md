@@ -1,20 +1,18 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]()
 
 <h1 align="center">Hello 🌏, I'm Sayan Biswas</h1>
-<h3 align="center">An undergrad developer from India</h3>
+<h3 align="center">Aspiring Software Developer | Passionate About Technology | Innovating for the Future</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fko7twHhomhk8E%2Fgiphy.gif&f=1&nofb=1&ipt=4e6061172a077ee127a7fe423e48cb0f16f8733bbb05ea42c58a80993893a5f7&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbiswas001&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="sbiswas001" /> </p>
 
-- 🔭 I’m currently working on [Student-Portfolio](https://github.com/Sbiswas001/Student-Portfolio)
+- 🔭 I’m currently working on [**JavaScript-Apps**](https://github.com/Sbiswas001/JavaScript-Apps)
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning [**Android App Development**](https://developer.android.com/studio?utm_source=android-studio)
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Sbiswas001?tab=repositories)
+- 👨‍💻 All of my projects are available at [**Repositories**](https://github.com/Sbiswas001?tab=repositories)
 
-- 📫 How to reach me **sbiswas001.tech@gmail.com**
-
-- ⚡ Fun fact **I like documented code**
+- 📫 How to reach me [**sbiswas001.tech@gmail.com**](mailto:sbiswas001.tech@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
